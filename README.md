@@ -1,6 +1,12 @@
 # Copilot-e-OpenAI
 Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
+📄 Descrição do Projeto
+
+Este repositório demonstra o uso de IA Generativa com Copilot e OpenAI para o reconhecimento de texto em imagens. O projeto explora desde a organização de arquivos até a aplicação prática de modelos de IA para extrair informações de forma automatizada e eficiente.
+
+O objetivo é mostrar como a integração dessas tecnologias pode facilitar tarefas repetitivas, melhorar a precisão na extração de dados e abrir possibilidades para automação de processos em larga escala.
+
 Estrutura do Repositório
 
 Processo de Reconhecimento de Texto
